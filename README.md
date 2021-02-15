@@ -1,1 +1,1 @@
-# webapp-rjs
+# simple website
