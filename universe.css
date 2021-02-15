@@ -1,0 +1,36 @@
+#c{
+font-size:20px;
+}
+a:link,a:visited{
+	background-color:#00FEFE;
+	color:#0000D8;
+	font-family:lucida handwriting;
+}
+a:hover,a:active{
+	background-color:yellow;
+	color:orange;
+	font-family:times new roman;
+}
+#ttt{
+	text-align:justify;
+	font-size:20px;
+	color:white;
+	font-family:Bradley Hand ITC;
+}
+img:hover,img:active{
+	opacity:0.3;
+}
+div:hover,div:active{
+	background-color:rgba(0,0,0,0);
+}
+li{
+	list-style-type:square;
+	font-size:25px;
+	text-align:center;
+	font-family:Aclonica;
+	color:#b4ff19;
+	list-style-position:inside;
+}
+ul{
+	text-align:center;
+}
